@@ -78,7 +78,7 @@ We have to create one folder called .github--> inside that we have to create wor
 you have to create a file main.yaml file
 
 
-inorder to add secret key  for github actions we have go to github--> Settings--> Secret-->Dependatbot
+inorder to add secret key  for github actions we have go to github--> Settings--> Secret-->Actions
 
 Add Name : HEROKU_API_KEY
 API Key {that has to be copied from heroku}
