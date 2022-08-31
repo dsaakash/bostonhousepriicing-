@@ -66,7 +66,7 @@ web: gunicorn app:app
 
 '''
 
-[Deployed Web Application] (https://boston-houseprice1.herokuapp.com/)
+[Deployed Web Application] (https://boston-house1.herokuapp.com/)
 
 
 ## We are Creating an Docker File 
