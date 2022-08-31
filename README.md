@@ -69,5 +69,24 @@ web: gunicorn app:app
 [Deployed Web Application] (https://boston-houseprice1.herokuapp.com/)
 
 
-[ScreenShot](https://prnt.sc/7PAzTic8BeIQ)
+## We are Creating an Docker File 
+
+# Whenever We are Considering Github Actions by CI/CD Pipeling
+
+'''
+We have to create one folder called .github--> inside that we have to create workflows --> inside that 
+you have to create a file main.yaml file
+
+
+inorder to add secret key  for github actions we have go to github--> Settings--> Secret-->Dependatbot
+
+Add Name : HEROKU_API_KEY
+API Key {that has to be copied from heroku}
+
+# we have to create two other Secret keys 
+
+
+
+
+'''
 
