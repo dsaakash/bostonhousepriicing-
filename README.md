@@ -37,7 +37,7 @@ git config --global user.email
 git add .
 
 '''
-## Step 2: commit message to a current reository
+## Step 2: commit message to a current repository
 
 '''
 git commit -m "Commit Message"
@@ -50,3 +50,5 @@ git commit -m "Commit Message"
 git push origin <Branch_name>
 
 '''
+
+then we will create app.py file 
