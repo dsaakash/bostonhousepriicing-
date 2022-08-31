@@ -52,3 +52,22 @@ git push origin <Branch_name>
 '''
 
 then we will create app.py file 
+
+
+## after app is Ready
+
+'''
+we have to create Proc File 
+
+then we have write below Script:
+
+
+web: gunicorn app:app
+
+'''
+
+[Deployed Web Application] (https://boston-houseprice1.herokuapp.com/)
+
+
+[ScreenShot](https://prnt.sc/7PAzTic8BeIQ)
+
