@@ -90,3 +90,6 @@ API Key {that has to be copied from heroku}
 
 '''
 
+HEROKU_EMAIL
+
+HEROKU_APP_NAME
